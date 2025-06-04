@@ -1,0 +1,31 @@
+{
+  "name": "startup-planet",
+  "version": "0.0.0",
+  "description": "Startup Planet",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhiashalabi/startup-planet.git"
+  },
+  "keywords": [
+    "startup-planet"
+  ],
+  "author": "DHia SHalabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhiashalabi/startup-planet/issues"
+  },
+  "homepage": "https://github.com/dhiashalabi/startup-planet#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "debug": "^4.4.1",
+    "express": "^5.1.0",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0"
+  }
+}
