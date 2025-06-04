@@ -23,6 +23,7 @@
   "homepage": "https://github.com/dhiashalabi/startup-planet#readme",
   "dependencies": {
     "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
     "debug": "^4.4.1",
     "express": "^5.1.0",
     "http-errors": "^2.0.0",
